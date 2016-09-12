@@ -55,7 +55,9 @@
 
    ![](https://cloud.githubusercontent.com/assets/6532225/18438460/0bc3c558-7934-11e6-8cce-8dd27d1135a2.png)
 
-Windows 7 和 Windows 8 的配置在界面上有一些小区别，可以参考http://jingyan.baidu.com/article/925f8cb836b26ac0dde0569e.html。在这个链接中，还添加了一些其他的路径到Path和CLASSPATH，这个是过时的做法，高版本的Java不需要这样设置。
+Windows 7 和 Windows 8 的配置在界面上有一些小区别，可以参考http://jingyan.baidu.com/article/925f8cb836b26ac0dde0569e.html
+
+在这个链接中，还添加了一些其他的路径到Path和CLASSPATH，这个是过时的做法，高版本的Java不需要这样设置。
 
 如果有同学使用其他操作系统，如`Max OS X`，`Linux`等，请在Lab课上或者微信上咨询TA如何配置Java环境。
 
@@ -99,7 +101,7 @@ Bonus：尝试运行`javac Game2048.java`和`java Game2048`，看看会发生什
 
 2. 安装好后，打开命令行，输入`git`回车，查看环境变量是否已经自动配好。如果没有配好，像配 Java 环境一样，在环境变量中加入下图的路径： ![](https://cloud.githubusercontent.com/assets/6532225/18446082/2c9ac244-7953-11e6-9f7f-6d3bc766b89e.png)
 
-3. 打开Atom，选择 File - Settings，然后在打开的设置窗口中选择 Install： ![Screen Shot 2016-09-07 at 7.16.44 PM](/Users/lifengshuang/Desktop/atom config/Screen Shot 2016-09-07 at 7.16.44 PM.png)
+3. 打开Atom，选择 File - Settings，然后在打开的设置窗口中选择 Install： ![](https://cloud.githubusercontent.com/assets/6532225/18446345/83b03572-7954-11e6-9bb7-ee71038b47de.png)
 
    ​
 
